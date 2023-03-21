@@ -1,0 +1,1 @@
+append mode creates a new file if it doesnt exist append mode appends a new text in existing one if the file exist
